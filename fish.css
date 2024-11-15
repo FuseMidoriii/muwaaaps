@@ -14,8 +14,8 @@ body,
 }
 p {
   position: absolute;
-  left: center;
-  top: center;
+  left: 25%;
+  top: 27%;
   font-size: 5rem;
 }
 .fish {
